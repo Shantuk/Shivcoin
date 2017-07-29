@@ -1,0 +1,2 @@
+# Shivcoin
+Cryptonote currency 
